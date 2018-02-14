@@ -1,0 +1,2 @@
+# tarocalize
+WordPress theme translator
